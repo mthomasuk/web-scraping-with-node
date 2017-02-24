@@ -1,5 +1,5 @@
 # Scraperoo
-A woefully inadequate web scraper by [Mark Thomas](http://mpjthomas.com)
+A woefully inadequate web scraper
 
 ### Requirements
 - `node v6.2.2+`
